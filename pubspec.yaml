@@ -1,8 +1,8 @@
 name: marslibrary
 description: A new Flutter plugin.
 version: 0.0.1
-author:
-homepage:
+author: Rubin <957014838@qq.com>
+homepage: https://github.com/yangrenwu2016
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
